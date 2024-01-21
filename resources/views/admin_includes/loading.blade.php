@@ -1,0 +1,1 @@
+<h5 class="text-center"><i class="fa-solid fa-spinner fa-spin"></i> {{ trans('global.loading_data') }} </h5>
